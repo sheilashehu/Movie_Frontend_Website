@@ -1,0 +1,20 @@
+body {
+  background: #141414;
+	color: #ffffff;
+}
+
+.title {
+  text-align: center;
+}
+
+.movie-app > .row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+.image_style {
+  padding: 5px;
+  float: left;
+  width: 400px;
+  white-space: nowrap;
+}
