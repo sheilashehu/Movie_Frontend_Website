@@ -1,4 +1,6 @@
-Installation
+# Movie Website
+
+## Installation
 
 Run these commands to clone the repository and install dependencies.
 
@@ -6,4 +8,5 @@ Run these commands to clone the repository and install dependencies.
 git clone https://github.com/sheilashehu/Movie_Frontend_Website.git
 cd my-app
 npm install
+npm start
 ```
